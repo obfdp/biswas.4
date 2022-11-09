@@ -1,0 +1,1210 @@
+OSS: Generated Process with PID 7453 at time 002.160601164 - PROCESS #1
+OSS: Queued Process with PID 7453 to Queue #1 at time 002.210901908
+OSS: Scheduled Process with PID 7453 at time 002.261055124
+OSS: Process with PID 7453 was in queue for 000.050343625 seconds
+OSS: Giving control to process with PID 7453 at time 002.311227695
+OSS: Taking control back from process with PID 7453 at time 003.124128274
+OSS: Terminating process with PID 7453 at time 003.224427134
+-----------------------------------------------------------------------------------
+----------Process with PID 7453 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7453 used 0.761392 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7456 at time 005.176826608 - PROCESS #2
+OSS: Queued Process with PID 7456 to Queue #3 at time 005.227020900
+OSS: interrupted Process with PID 7456 to Queue #2 at time 005.277199180
+OSS: interrupted Process with PID 7456 to Queue #1 at time 005.677786405
+OSS: Scheduled Process with PID 7456 at time 006.078259484
+OSS: Process with PID 7456 was in queue for 004.078290521 seconds
+OSS: Giving control to process with PID 7456 at time 006.128437330
+OSS: Taking control back from process with PID 7456 at time 007.007475684
+OSS: Re-Queued Process with PID 7456 to Queue #2 at time 007.057716557
+OSS: Generated Process with PID 7459 at time 007.308242919 - PROCESS #3
+OSS: Queued Process with PID 7459 to Queue #1 at time 007.358463511
+OSS: Scheduled Process with PID 7459 at time 007.408625155
+OSS: Process with PID 7459 was in queue for 000.050281300 seconds
+OSS: Giving control to process with PID 7459 at time 007.458801391
+OSS: Taking control back from process with PID 7459 at time 007.855834837
+OSS: Terminating process with PID 7459 at time 007.956107952
+-----------------------------------------------------------------------------------
+----------Process with PID 7459 was in the system for time 0.017182960 seconds-----------------
+--------------Process wih PID 7459 used 0.345514 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7456 to Queue #1 at time 008.256569584
+OSS: Scheduled Process with PID 7456 at time 008.657135192
+OSS: Process with PID 7456 was in queue for 001.18446744073410574555 seconds
+OSS: Giving control to process with PID 7456 at time 008.707274132
+OSS: Taking control back from process with PID 7456 at time 009.442141001
+OSS: Re-Queued Process with PID 7456 to Queue #1 at time 009.492330393
+OSS: Generated Process with PID 7462 at time 009.742680971 - PROCESS #4
+OSS: Queued Process with PID 7462 to Queue #2 at time 009.792874246
+OSS: Scheduled Process with PID 7456 at time 009.842989118
+OSS: Process with PID 7456 was in queue for 009.842996767 seconds
+OSS: Giving control to process with PID 7456 at time 009.893134071
+OSS: Taking control back from process with PID 7456 at time 009.979300261
+OSS: Terminating process with PID 7456 at time 010.079532307
+-----------------------------------------------------------------------------------
+----------Process with PID 7456 was in the system for time 5.017182960 seconds-----------------
+--------------Process wih PID 7456 used 1.547568 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7462 to Queue #1 at time 010.379915206
+OSS: Scheduled Process with PID 7462 at time 010.780410652
+OSS: Process with PID 7462 was in queue for 000.700867264 seconds
+OSS: Giving control to process with PID 7462 at time 010.830557914
+OSS: Taking control back from process with PID 7462 at time 011.505612634
+OSS: Re-Queued Process with PID 7462 to Queue #1 at time 011.555822297
+OSS: Generated Process with PID 7465 at time 011.806205602 - PROCESS #5
+OSS: Queued Process with PID 7465 to Queue #2 at time 011.856443193
+OSS: Scheduled Process with PID 7462 at time 011.906642416
+OSS: Process with PID 7462 was in queue for 011.906690167 seconds
+OSS: Giving control to process with PID 7462 at time 011.956821086
+OSS: Taking control back from process with PID 7462 at time 012.034122100
+OSS: Terminating process with PID 7462 at time 012.134361033
+-----------------------------------------------------------------------------------
+----------Process with PID 7462 was in the system for time 3.017182960 seconds-----------------
+--------------Process wih PID 7462 used 0.650693 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7465 to Queue #1 at time 012.434832407
+OSS: Scheduled Process with PID 7465 at time 012.835292640
+OSS: Process with PID 7465 was in queue for 000.700914904 seconds
+OSS: Giving control to process with PID 7465 at time 012.885418132
+OSS: Taking control back from process with PID 7465 at time 013.467962002
+OSS: Terminating process with PID 7465 at time 013.568353288
+-----------------------------------------------------------------------------------
+----------Process with PID 7465 was in the system for time 2.017182960 seconds-----------------
+--------------Process wih PID 7465 used 0.531197 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7467 at time 013.768591258 - PROCESS #6
+OSS: Queued Process with PID 7467 to Queue #3 at time 013.818758746
+OSS: interrupted Process with PID 7467 to Queue #2 at time 013.868949977
+OSS: Generated Process with PID 7468 at time 014.169397866 - PROCESS #7
+OSS: Queued Process with PID 7468 to Queue #1 at time 014.219587861
+OSS: Scheduled Process with PID 7468 at time 014.269698156
+OSS: Process with PID 7468 was in queue for 007.269705124 seconds
+OSS: Giving control to process with PID 7468 at time 014.319857389
+OSS: Taking control back from process with PID 7468 at time 015.062375336
+OSS: Terminating process with PID 7468 at time 015.162649103
+-----------------------------------------------------------------------------------
+----------Process with PID 7468 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7468 used 0.691197 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7467 to Queue #1 at time 015.463040555
+OSS: Scheduled Process with PID 7467 at time 015.863682249
+OSS: Process with PID 7467 was in queue for 000.701023469 seconds
+OSS: Giving control to process with PID 7467 at time 015.913849478
+OSS: Taking control back from process with PID 7467 at time 016.708697555
+OSS: Re-Queued Process with PID 7467 to Queue #1 at time 016.758937587
+OSS: Generated Process with PID 7472 at time 017.009418493 - PROCESS #8
+OSS: Queued Process with PID 7472 to Queue #1 at time 017.059652059
+OSS: Scheduled Process with PID 7467 at time 017.109795464
+OSS: Process with PID 7467 was in queue for 017.109802704 seconds
+OSS: Giving control to process with PID 7467 at time 017.159942762
+OSS: Taking control back from process with PID 7467 at time 017.705617611
+OSS: Terminating process with PID 7467 at time 017.805945665
+-----------------------------------------------------------------------------------
+----------Process with PID 7467 was in the system for time 4.017182960 seconds-----------------
+--------------Process wih PID 7467 used 1.238798 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7474 at time 018.006232458 - PROCESS #9
+OSS: Queued Process with PID 7474 to Queue #1 at time 018.056449297
+OSS: Scheduled Process with PID 7472 at time 018.106604866
+OSS: Process with PID 7472 was in queue for 018.106613430 seconds
+OSS: Giving control to process with PID 7472 at time 018.156779606
+OSS: Taking control back from process with PID 7472 at time 018.641489730
+OSS: Terminating process with PID 7472 at time 018.741772019
+-----------------------------------------------------------------------------------
+----------Process with PID 7472 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7472 used 0.433336 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Scheduled Process with PID 7474 at time 019.042192603
+OSS: Process with PID 7474 was in queue for 019.042202404 seconds
+OSS: Giving control to process with PID 7474 at time 019.092323794
+OSS: Taking control back from process with PID 7474 at time 019.311094214
+OSS: Terminating process with PID 7474 at time 019.411361448
+-----------------------------------------------------------------------------------
+----------Process with PID 7474 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7474 used 0.167326 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7476 at time 019.611696292 - PROCESS #10
+OSS: Queued Process with PID 7476 to Queue #3 at time 019.661916547
+OSS: interrupted Process with PID 7476 to Queue #2 at time 019.712117299
+OSS: interrupted Process with PID 7476 to Queue #1 at time 020.112790673
+OSS: Scheduled Process with PID 7476 at time 020.513366981
+OSS: Process with PID 7476 was in queue for 001.18446744073561106064 seconds
+OSS: Giving control to process with PID 7476 at time 020.563531145
+OSS: Taking control back from process with PID 7476 at time 021.600367005
+OSS: Re-Queued Process with PID 7476 to Queue #1 at time 021.650566795
+OSS: Scheduled Process with PID 7476 at time 022.001049798
+OSS: Process with PID 7476 was in queue for 002.001057707 seconds
+OSS: Giving control to process with PID 7476 at time 022.051216420
+OSS: Taking control back from process with PID 7476 at time 022.161203909
+OSS: Terminating process with PID 7476 at time 022.261487682
+-----------------------------------------------------------------------------------
+----------Process with PID 7476 was in the system for time 3.017182960 seconds-----------------
+--------------Process wih PID 7476 used 1.044944 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7479 at time 022.461760876 - PROCESS #11
+OSS: Queued Process with PID 7479 to Queue #3 at time 022.511973416
+OSS: interrupted Process with PID 7479 to Queue #2 at time 022.562194083
+OSS: Generated Process with PID 7480 at time 022.862674686 - PROCESS #12
+OSS: Queued Process with PID 7480 to Queue #3 at time 022.912936532
+OSS: interrupted Process with PID 7479 to Queue #1 at time 022.963100685
+OSS: Scheduled Process with PID 7479 at time 023.363775329
+OSS: Process with PID 7479 was in queue for 009.363791575 seconds
+OSS: Giving control to process with PID 7479 at time 023.413891818
+OSS: Taking control back from process with PID 7479 at time 024.450886893
+OSS: Re-Queued Process with PID 7479 to Queue #1 at time 024.501095427
+OSS: Generated Process with PID 7483 at time 024.751461446 - PROCESS #13
+OSS: Queued Process with PID 7483 to Queue #1 at time 024.801652515
+OSS: Scheduled Process with PID 7479 at time 024.851770888
+OSS: Process with PID 7479 was in queue for 024.851790977 seconds
+OSS: Giving control to process with PID 7479 at time 024.901909008
+OSS: Taking control back from process with PID 7479 at time 025.186311764
+OSS: Terminating process with PID 7479 at time 025.286592972
+-----------------------------------------------------------------------------------
+----------Process with PID 7479 was in the system for time 3.017182960 seconds-----------------
+--------------Process wih PID 7479 used 1.219409 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Scheduled Process with PID 7483 at time 025.586994121
+OSS: Process with PID 7483 was in queue for 025.587015396 seconds
+OSS: Giving control to process with PID 7483 at time 025.637194725
+OSS: Taking control back from process with PID 7483 at time 026.161232390
+OSS: Terminating process with PID 7483 at time 026.261506916
+-----------------------------------------------------------------------------------
+----------Process with PID 7483 was in the system for time 2.017182960 seconds-----------------
+--------------Process wih PID 7483 used 0.472631 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7480 to Queue #2 at time 026.561976852
+OSS: interrupted Process with PID 7480 to Queue #1 at time 026.962594904
+OSS: Generated Process with PID 7491 at time 027.263047959 - PROCESS #14
+OSS: Queued Process with PID 7491 to Queue #2 at time 027.313231464
+OSS: Scheduled Process with PID 7480 at time 027.363344454
+OSS: Process with PID 7480 was in queue for 027.363365678 seconds
+OSS: Giving control to process with PID 7480 at time 027.413473040
+OSS: Taking control back from process with PID 7480 at time 028.040577264
+OSS: Re-Queued Process with PID 7480 to Queue #3 at time 028.090798433
+OSS: interrupted Process with PID 7491 to Queue #1 at time 028.441275043
+OSS: Scheduled Process with PID 7491 at time 028.841754117
+OSS: Process with PID 7491 was in queue for 000.751069115 seconds
+OSS: Giving control to process with PID 7491 at time 028.891903894
+OSS: Taking control back from process with PID 7491 at time 029.652103382
+OSS: Re-Queued Process with PID 7491 to Queue #1 at time 029.702312240
+OSS: Generated Process with PID 7496 at time 029.952647863 - PROCESS #15
+OSS: Queued Process with PID 7496 to Queue #3 at time 030.002861954
+OSS: Scheduled Process with PID 7491 at time 030.052995933
+OSS: Process with PID 7491 was in queue for 030.053057881 seconds
+OSS: Giving control to process with PID 7491 at time 030.103205467
+OSS: Taking control back from process with PID 7491 at time 030.262760745
+OSS: Terminating process with PID 7491 at time 030.363024421
+-----------------------------------------------------------------------------------
+----------Process with PID 7491 was in the system for time 3.017182960 seconds-----------------
+--------------Process wih PID 7491 used 0.817524 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7501 at time 030.563308856 - PROCESS #16
+OSS: Queued Process with PID 7501 to Queue #2 at time 030.613535611
+OSS: interrupted Process with PID 7501 to Queue #1 at time 030.663764190
+OSS: Generated Process with PID 7503 at time 030.964224610 - PROCESS #17
+OSS: Queued Process with PID 7503 to Queue #3 at time 031.014449245
+OSS: Scheduled Process with PID 7501 at time 031.064583577
+OSS: Process with PID 7501 was in queue for 031.064604491 seconds
+OSS: Giving control to process with PID 7501 at time 031.114710476
+OSS: Taking control back from process with PID 7501 at time 031.755315603
+OSS: Re-Queued Process with PID 7501 to Queue #1 at time 031.805546188
+OSS: Generated Process with PID 7506 at time 032.055904273 - PROCESS #18
+OSS: Queued Process with PID 7506 to Queue #3 at time 032.106115958
+OSS: Scheduled Process with PID 7501 at time 032.156265982
+OSS: Process with PID 7501 was in queue for 032.156293140 seconds
+OSS: Giving control to process with PID 7501 at time 032.206445220
+OSS: Taking control back from process with PID 7501 at time 032.415876121
+OSS: Terminating process with PID 7501 at time 032.516157208
+-----------------------------------------------------------------------------------
+----------Process with PID 7501 was in the system for time 2.017182960 seconds-----------------
+--------------Process wih PID 7501 used 0.748211 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7480 to Queue #2 at time 032.816614010
+OSS: Generated Process with PID 7509 at time 033.117125586 - PROCESS #19
+OSS: Queued Process with PID 7509 to Queue #3 at time 033.167353436
+OSS: interrupted Process with PID 7480 to Queue #1 at time 033.217649934
+OSS: Generated Process with PID 7510 at time 033.518079620 - PROCESS #20
+OSS: Queued Process with PID 7510 to Queue #2 at time 033.568326235
+OSS: Scheduled Process with PID 7480 at time 033.618454159
+OSS: Process with PID 7480 was in queue for 033.618460463 seconds
+OSS: Giving control to process with PID 7480 at time 033.668616325
+OSS: Taking control back from process with PID 7480 at time 034.445303385
+OSS: Re-Queued Process with PID 7480 to Queue #1 at time 034.495494141
+OSS: Scheduled Process with PID 7480 at time 034.845964050
+OSS: Process with PID 7480 was in queue for 000.350566854 seconds
+OSS: Giving control to process with PID 7480 at time 034.896102227
+OSS: Taking control back from process with PID 7480 at time 035.427636661
+OSS: Terminating process with PID 7480 at time 035.527878560
+-----------------------------------------------------------------------------------
+----------Process with PID 7480 was in the system for time 13.017182960 seconds-----------------
+--------------Process wih PID 7480 used 1.783148 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7516 at time 035.728165229 - PROCESS #21
+OSS: Queued Process with PID 7516 to Queue #1 at time 035.778406612
+OSS: Scheduled Process with PID 7516 at time 035.828550969
+OSS: Process with PID 7516 was in queue for 001.828569128 seconds
+OSS: Giving control to process with PID 7516 at time 035.878715630
+OSS: Taking control back from process with PID 7516 at time 036.772160257
+OSS: Re-Queued Process with PID 7516 to Queue #1 at time 036.822394344
+OSS: Scheduled Process with PID 7516 at time 037.172856869
+OSS: Process with PID 7516 was in queue for 002.172884838 seconds
+OSS: Giving control to process with PID 7516 at time 037.223066725
+OSS: Taking control back from process with PID 7516 at time 037.713973485
+OSS: Terminating process with PID 7516 at time 037.814253971
+-----------------------------------------------------------------------------------
+----------Process with PID 7516 was in the system for time 2.017182960 seconds-----------------
+--------------Process wih PID 7516 used 1.282518 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7520 at time 038.014623873 - PROCESS #22
+OSS: Queued Process with PID 7520 to Queue #1 at time 038.064878593
+OSS: Scheduled Process with PID 7520 at time 038.115017794
+OSS: Process with PID 7520 was in queue for 001.115041610 seconds
+OSS: Giving control to process with PID 7520 at time 038.165215512
+OSS: Taking control back from process with PID 7520 at time 038.556038342
+OSS: Terminating process with PID 7520 at time 038.656334311
+-----------------------------------------------------------------------------------
+----------Process with PID 7520 was in the system for time 0.017182960 seconds-----------------
+--------------Process wih PID 7520 used 0.339417 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7510 to Queue #1 at time 038.956758253
+OSS: Generated Process with PID 7524 at time 039.257276415 - PROCESS #23
+OSS: Queued Process with PID 7524 to Queue #3 at time 039.307522992
+OSS: Scheduled Process with PID 7510 at time 039.357618100
+OSS: Process with PID 7510 was in queue for 039.357640228 seconds
+OSS: Giving control to process with PID 7510 at time 039.407772723
+OSS: Taking control back from process with PID 7510 at time 040.008217810
+OSS: Re-Queued Process with PID 7510 to Queue #1 at time 040.058484106
+OSS: Scheduled Process with PID 7510 at time 040.408940277
+OSS: Process with PID 7510 was in queue for 002.408968331 seconds
+OSS: Giving control to process with PID 7510 at time 040.459117767
+OSS: Taking control back from process with PID 7510 at time 040.922000413
+OSS: Terminating process with PID 7510 at time 041.024000137
+-----------------------------------------------------------------------------------
+----------Process with PID 7510 was in the system for time 7.017182960 seconds-----------------
+--------------Process wih PID 7510 used 0.960912 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7527 at time 041.225183413 - PROCESS #24
+OSS: Queued Process with PID 7527 to Queue #1 at time 041.275396946
+OSS: Scheduled Process with PID 7527 at time 041.325529762
+OSS: Process with PID 7527 was in queue for 001.325544362 seconds
+OSS: Giving control to process with PID 7527 at time 041.375672795
+OSS: Taking control back from process with PID 7527 at time 041.524827915
+OSS: Terminating process with PID 7527 at time 041.625063464
+-----------------------------------------------------------------------------------
+----------Process with PID 7527 was in the system for time 0.017182960 seconds-----------------
+--------------Process wih PID 7527 used 0.097699 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7496 to Queue #2 at time 041.925487103
+OSS: interrupted Process with PID 7496 to Queue #1 at time 042.326121994
+OSS: Scheduled Process with PID 7496 at time 042.726697249
+OSS: Process with PID 7496 was in queue for 001.101635447 seconds
+OSS: Giving control to process with PID 7496 at time 042.776871304
+OSS: Taking control back from process with PID 7496 at time 043.490069986
+OSS: Re-Queued Process with PID 7496 to Queue #2 at time 043.540279744
+OSS: Generated Process with PID 7537 at time 043.790622562 - PROCESS #25
+OSS: Queued Process with PID 7537 to Queue #3 at time 043.840837215
+OSS: interrupted Process with PID 7496 to Queue #1 at time 043.891031218
+OSS: Generated Process with PID 7593 at time 044.191412104 - PROCESS #26
+OSS: Queued Process with PID 7593 to Queue #1 at time 044.241588165
+OSS: Scheduled Process with PID 7496 at time 044.291726159
+OSS: Process with PID 7496 was in queue for 044.291749870 seconds
+OSS: Giving control to process with PID 7496 at time 044.341858537
+OSS: Taking control back from process with PID 7496 at time 045.023226286
+OSS: Re-Queued Process with PID 7496 to Queue #1 at time 045.073460020
+OSS: Scheduled Process with PID 7593 at time 045.423935776
+OSS: Process with PID 7593 was in queue for 015.423951703 seconds
+OSS: Giving control to process with PID 7593 at time 045.474083714
+OSS: Taking control back from process with PID 7593 at time 045.885558741
+OSS: Terminating process with PID 7593 at time 045.985868415
+-----------------------------------------------------------------------------------
+----------Process with PID 7593 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7593 used 0.360049 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Scheduled Process with PID 7496 at time 046.286281675
+OSS: Process with PID 7496 was in queue for 046.286305437 seconds
+OSS: Giving control to process with PID 7496 at time 046.336452737
+OSS: Taking control back from process with PID 7496 at time 046.585146763
+OSS: Terminating process with PID 7496 at time 046.685423032
+-----------------------------------------------------------------------------------
+----------Process with PID 7496 was in the system for time 17.017182960 seconds-----------------
+--------------Process wih PID 7496 used 1.490986 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7503 to Queue #2 at time 046.985884412
+OSS: Generated Process with PID 7599 at time 047.286358525 - PROCESS #27
+OSS: Queued Process with PID 7599 to Queue #1 at time 047.336587648
+OSS: Scheduled Process with PID 7599 at time 047.386711250
+OSS: Process with PID 7599 was in queue for 000.050239264 seconds
+OSS: Giving control to process with PID 7599 at time 047.436921138
+OSS: Taking control back from process with PID 7599 at time 048.002757252
+OSS: Re-Queued Process with PID 7599 to Queue #3 at time 048.052980995
+OSS: interrupted Process with PID 7503 to Queue #1 at time 048.403508111
+OSS: Scheduled Process with PID 7503 at time 048.804087372
+OSS: Process with PID 7503 was in queue for 001.804101581 seconds
+OSS: Giving control to process with PID 7503 at time 048.854217449
+OSS: Taking control back from process with PID 7503 at time 049.523940669
+OSS: Re-Queued Process with PID 7503 to Queue #3 at time 049.574140137
+OSS: Generated Process with PID 7604 at time 049.824558116 - PROCESS #28
+OSS: Queued Process with PID 7604 to Queue #3 at time 049.874734951
+OSS: interrupted Process with PID 7506 to Queue #2 at time 049.924966414
+OSS: interrupted Process with PID 7506 to Queue #1 at time 050.325607798
+OSS: Scheduled Process with PID 7506 at time 050.726228709
+OSS: Process with PID 7506 was in queue for 001.18446744073561142084 seconds
+OSS: Giving control to process with PID 7506 at time 050.776375428
+OSS: Taking control back from process with PID 7506 at time 051.637922014
+OSS: Re-Queued Process with PID 7506 to Queue #3 at time 051.688131024
+OSS: interrupted Process with PID 7509 to Queue #2 at time 052.038647004
+OSS: Generated Process with PID 7609 at time 052.339083575 - PROCESS #29
+OSS: Queued Process with PID 7609 to Queue #1 at time 052.389280886
+OSS: Scheduled Process with PID 7609 at time 052.439381440
+OSS: Process with PID 7609 was in queue for 000.050206573 seconds
+OSS: Giving control to process with PID 7609 at time 052.489524961
+OSS: Taking control back from process with PID 7609 at time 052.964712795
+OSS: Terminating process with PID 7609 at time 053.065024020
+-----------------------------------------------------------------------------------
+----------Process with PID 7609 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7609 used 0.423734 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7509 to Queue #1 at time 053.365501089
+OSS: Scheduled Process with PID 7509 at time 053.766195532
+OSS: Process with PID 7509 was in queue for 000.701188788 seconds
+OSS: Giving control to process with PID 7509 at time 053.816391792
+OSS: Taking control back from process with PID 7509 at time 054.416751923
+OSS: Re-Queued Process with PID 7509 to Queue #2 at time 054.466963380
+OSS: interrupted Process with PID 7509 to Queue #1 at time 054.817403452
+OSS: Generated Process with PID 7612 at time 055.117845870 - PROCESS #30
+OSS: Queued Process with PID 7612 to Queue #2 at time 055.168083645
+OSS: Scheduled Process with PID 7509 at time 055.218219842
+OSS: Process with PID 7509 was in queue for 055.218242428 seconds
+OSS: Giving control to process with PID 7509 at time 055.268378611
+OSS: Taking control back from process with PID 7509 at time 055.968114219
+OSS: Re-Queued Process with PID 7509 to Queue #1 at time 056.018332025
+OSS: Scheduled Process with PID 7509 at time 056.368838698
+OSS: Process with PID 7509 was in queue for 004.368846642 seconds
+OSS: Giving control to process with PID 7509 at time 056.418994533
+OSS: Taking control back from process with PID 7509 at time 056.560203533
+OSS: Terminating process with PID 7509 at time 056.660534977
+-----------------------------------------------------------------------------------
+----------Process with PID 7509 was in the system for time 23.017182960 seconds-----------------
+--------------Process wih PID 7509 used 1.288790 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7612 to Queue #1 at time 056.961025307
+OSS: Generated Process with PID 7615 at time 057.261510467 - PROCESS #31
+OSS: Queued Process with PID 7615 to Queue #3 at time 057.311731133
+OSS: Scheduled Process with PID 7612 at time 057.361903559
+OSS: Process with PID 7612 was in queue for 057.361922693 seconds
+OSS: Giving control to process with PID 7612 at time 057.412113415
+OSS: Taking control back from process with PID 7612 at time 058.110528996
+OSS: Re-Queued Process with PID 7612 to Queue #1 at time 058.160732586
+OSS: Scheduled Process with PID 7612 at time 058.511140266
+OSS: Process with PID 7612 was in queue for 002.511147844 seconds
+OSS: Giving control to process with PID 7612 at time 058.561287763
+OSS: Taking control back from process with PID 7612 at time 058.704947768
+OSS: Terminating process with PID 7612 at time 058.805185257
+-----------------------------------------------------------------------------------
+----------Process with PID 7612 was in the system for time 3.017182960 seconds-----------------
+--------------Process wih PID 7612 used 0.740317 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7524 to Queue #2 at time 059.105647068
+OSS: interrupted Process with PID 7524 to Queue #1 at time 059.506291183
+OSS: Scheduled Process with PID 7524 at time 059.906821179
+OSS: Process with PID 7524 was in queue for 001.101633601 seconds
+OSS: Giving control to process with PID 7524 at time 059.956991860
+OSS: Taking control back from process with PID 7524 at time 060.850210027
+OSS: Re-Queued Process with PID 7524 to Queue #3 at time 060.900438393
+OSS: Generated Process with PID 7619 at time 061.150926064 - PROCESS #32
+OSS: Queued Process with PID 7619 to Queue #3 at time 061.201162446
+OSS: interrupted Process with PID 7537 to Queue #2 at time 061.251372120
+OSS: Generated Process with PID 7620 at time 061.551827924 - PROCESS #33
+OSS: Queued Process with PID 7620 to Queue #3 at time 061.602134502
+OSS: interrupted Process with PID 7537 to Queue #1 at time 061.652337749
+OSS: Scheduled Process with PID 7537 at time 062.052828340
+OSS: Process with PID 7537 was in queue for 001.18446744073160423363 seconds
+OSS: Giving control to process with PID 7537 at time 062.102947624
+OSS: Taking control back from process with PID 7537 at time 062.899424600
+OSS: Re-Queued Process with PID 7537 to Queue #3 at time 062.949635548
+OSS: Generated Process with PID 7623 at time 063.199991089 - PROCESS #34
+OSS: Queued Process with PID 7623 to Queue #1 at time 063.250217884
+OSS: Scheduled Process with PID 7623 at time 063.300347661
+OSS: Process with PID 7623 was in queue for 000.050245559 seconds
+OSS: Giving control to process with PID 7623 at time 063.350528901
+OSS: Taking control back from process with PID 7623 at time 063.479336420
+OSS: Terminating process with PID 7623 at time 063.579591506
+-----------------------------------------------------------------------------------
+----------Process with PID 7623 was in the system for time 0.017182960 seconds-----------------
+--------------Process wih PID 7623 used 0.077312 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7599 to Queue #2 at time 063.879988229
+OSS: Generated Process with PID 7624 at time 064.180496637 - PROCESS #35
+OSS: Queued Process with PID 7624 to Queue #1 at time 064.230754218
+OSS: Scheduled Process with PID 7624 at time 064.280899475
+OSS: Process with PID 7624 was in queue for 001.280937821 seconds
+OSS: Giving control to process with PID 7624 at time 064.331065917
+OSS: Taking control back from process with PID 7624 at time 064.842236379
+OSS: Terminating process with PID 7624 at time 064.942501902
+-----------------------------------------------------------------------------------
+----------Process with PID 7624 was in the system for time 0.017182960 seconds-----------------
+--------------Process wih PID 7624 used 0.459709 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7599 to Queue #1 at time 065.242936062
+OSS: Scheduled Process with PID 7599 at time 065.643587246
+OSS: Process with PID 7599 was in queue for 001.18446744073410625425 seconds
+OSS: Giving control to process with PID 7599 at time 065.693773906
+OSS: Taking control back from process with PID 7599 at time 066.622304631
+OSS: Re-Queued Process with PID 7599 to Queue #2 at time 066.672540723
+OSS: Generated Process with PID 7628 at time 066.922889499 - PROCESS #36
+OSS: Queued Process with PID 7628 to Queue #2 at time 066.973126797
+OSS: interrupted Process with PID 7599 to Queue #1 at time 067.023310214
+OSS: Generated Process with PID 7629 at time 067.323799499 - PROCESS #37
+OSS: Queued Process with PID 7629 to Queue #1 at time 067.374033231
+OSS: Scheduled Process with PID 7599 at time 067.424159696
+OSS: Process with PID 7599 was in queue for 067.424167722 seconds
+OSS: Giving control to process with PID 7599 at time 067.474296900
+OSS: Taking control back from process with PID 7599 at time 068.122502347
+OSS: Terminating process with PID 7599 at time 068.222802600
+-----------------------------------------------------------------------------------
+----------Process with PID 7599 was in the system for time 21.017182960 seconds-----------------
+--------------Process wih PID 7599 used 1.990270 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Scheduled Process with PID 7629 at time 068.523234626
+OSS: Process with PID 7629 was in queue for 068.523250401 seconds
+OSS: Giving control to process with PID 7629 at time 068.573403794
+OSS: Taking control back from process with PID 7629 at time 068.628816315
+OSS: Terminating process with PID 7629 at time 068.729140748
+-----------------------------------------------------------------------------------
+----------Process with PID 7629 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7629 used 0.003952 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7628 to Queue #1 at time 069.029573917
+OSS: Scheduled Process with PID 7628 at time 069.430129105
+OSS: Process with PID 7628 was in queue for 001.18446744073410536561 seconds
+OSS: Giving control to process with PID 7628 at time 069.480299107
+OSS: Taking control back from process with PID 7628 at time 070.269910460
+OSS: Terminating process with PID 7628 at time 070.370193503
+-----------------------------------------------------------------------------------
+----------Process with PID 7628 was in the system for time 4.017182960 seconds-----------------
+--------------Process wih PID 7628 used 0.738151 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7633 at time 070.570508913 - PROCESS #38
+OSS: Queued Process with PID 7633 to Queue #3 at time 070.620734414
+OSS: interrupted Process with PID 7503 to Queue #2 at time 070.670930111
+OSS: interrupted Process with PID 7503 to Queue #1 at time 071.071579064
+OSS: Scheduled Process with PID 7503 at time 071.475000269
+OSS: Process with PID 7503 was in queue for 001.18446744073563916895 seconds
+OSS: Giving control to process with PID 7503 at time 071.526001484
+OSS: Taking control back from process with PID 7503 at time 072.329498049
+OSS: Re-Queued Process with PID 7503 to Queue #1 at time 072.379717593
+OSS: Generated Process with PID 7635 at time 072.630119148 - PROCESS #39
+OSS: Queued Process with PID 7635 to Queue #1 at time 072.680391251
+OSS: Scheduled Process with PID 7503 at time 072.730538825
+OSS: Process with PID 7503 was in queue for 072.730547460 seconds
+OSS: Giving control to process with PID 7503 at time 072.780669313
+OSS: Taking control back from process with PID 7503 at time 073.153834652
+OSS: Terminating process with PID 7503 at time 073.254083911
+-----------------------------------------------------------------------------------
+----------Process with PID 7503 was in the system for time 43.017182960 seconds-----------------
+--------------Process wih PID 7503 used 1.693202 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Scheduled Process with PID 7635 at time 073.554460347
+OSS: Process with PID 7635 was in queue for 073.554485581 seconds
+OSS: Giving control to process with PID 7635 at time 073.604637619
+OSS: Taking control back from process with PID 7635 at time 073.808141656
+OSS: Terminating process with PID 7635 at time 073.908454270
+-----------------------------------------------------------------------------------
+----------Process with PID 7635 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7635 used 0.152042 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7637 at time 074.108722132 - PROCESS #40
+OSS: Queued Process with PID 7637 to Queue #1 at time 074.158947037
+OSS: Scheduled Process with PID 7637 at time 074.209045099
+OSS: Process with PID 7637 was in queue for 000.050221451 seconds
+OSS: Giving control to process with PID 7637 at time 074.259211305
+OSS: Taking control back from process with PID 7637 at time 075.170031955
+OSS: Re-Queued Process with PID 7637 to Queue #2 at time 075.220253927
+OSS: interrupted Process with PID 7637 to Queue #1 at time 075.570784996
+OSS: Scheduled Process with PID 7637 at time 075.971344416
+OSS: Process with PID 7637 was in queue for 001.971360629 seconds
+OSS: Giving control to process with PID 7637 at time 076.021465147
+OSS: Taking control back from process with PID 7637 at time 076.636305355
+OSS: Re-Queued Process with PID 7637 to Queue #1 at time 076.686494554
+OSS: Generated Process with PID 7641 at time 076.936781450 - PROCESS #41
+OSS: Queued Process with PID 7641 to Queue #1 at time 076.986972737
+OSS: Scheduled Process with PID 7637 at time 077.037070292
+OSS: Process with PID 7637 was in queue for 077.037083229 seconds
+OSS: Giving control to process with PID 7637 at time 077.087182684
+OSS: Taking control back from process with PID 7637 at time 077.348837201
+OSS: Terminating process with PID 7637 at time 077.449080052
+-----------------------------------------------------------------------------------
+----------Process with PID 7637 was in the system for time 3.017182960 seconds-----------------
+--------------Process wih PID 7637 used 1.634993 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Scheduled Process with PID 7641 at time 077.749406128
+OSS: Process with PID 7641 was in queue for 077.749414848 seconds
+OSS: Giving control to process with PID 7641 at time 077.799556216
+OSS: Taking control back from process with PID 7641 at time 077.998073317
+OSS: Terminating process with PID 7641 at time 078.098312500
+-----------------------------------------------------------------------------------
+----------Process with PID 7641 was in the system for time 2.017182960 seconds-----------------
+--------------Process wih PID 7641 used 0.147138 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7604 to Queue #2 at time 078.398720019
+OSS: interrupted Process with PID 7604 to Queue #1 at time 078.799484512
+OSS: Generated Process with PID 7643 at time 079.099965305 - PROCESS #42
+OSS: Queued Process with PID 7643 to Queue #1 at time 079.150169837
+OSS: Scheduled Process with PID 7604 at time 079.200296618
+OSS: Process with PID 7604 was in queue for 079.200303519 seconds
+OSS: Giving control to process with PID 7604 at time 079.250431781
+OSS: Taking control back from process with PID 7604 at time 079.898080984
+OSS: Re-Queued Process with PID 7604 to Queue #3 at time 079.948274783
+OSS: Scheduled Process with PID 7643 at time 080.299328605
+OSS: Process with PID 7643 was in queue for 080.299337091 seconds
+OSS: Giving control to process with PID 7643 at time 080.349446482
+OSS: Taking control back from process with PID 7643 at time 081.020091438
+OSS: Re-Queued Process with PID 7643 to Queue #2 at time 081.070307233
+OSS: Generated Process with PID 7647 at time 081.320684223 - PROCESS #43
+OSS: Queued Process with PID 7647 to Queue #1 at time 081.370900065
+OSS: Scheduled Process with PID 7647 at time 081.421049408
+OSS: Process with PID 7647 was in queue for 000.050256301 seconds
+OSS: Giving control to process with PID 7647 at time 081.471191919
+OSS: Taking control back from process with PID 7647 at time 081.665904325
+OSS: Terminating process with PID 7647 at time 081.766175782
+-----------------------------------------------------------------------------------
+----------Process with PID 7647 was in the system for time 0.017182960 seconds-----------------
+--------------Process wih PID 7647 used 0.142842 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7643 to Queue #1 at time 082.066608059
+OSS: Generated Process with PID 7649 at time 082.367143298 - PROCESS #44
+OSS: Queued Process with PID 7649 to Queue #3 at time 082.417355999
+OSS: Scheduled Process with PID 7643 at time 082.467503765
+OSS: Process with PID 7643 was in queue for 082.467514041 seconds
+OSS: Giving control to process with PID 7643 at time 082.517661418
+OSS: Taking control back from process with PID 7643 at time 083.152290214
+OSS: Terminating process with PID 7643 at time 083.252536880
+-----------------------------------------------------------------------------------
+----------Process with PID 7643 was in the system for time 4.017182960 seconds-----------------
+--------------Process wih PID 7643 used 1.202856 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7651 at time 083.452779220 - PROCESS #45
+OSS: Queued Process with PID 7651 to Queue #1 at time 083.503031828
+OSS: Scheduled Process with PID 7651 at time 083.553133343
+OSS: Process with PID 7651 was in queue for 002.553148611 seconds
+OSS: Giving control to process with PID 7651 at time 083.603316342
+OSS: Taking control back from process with PID 7651 at time 084.012090528
+OSS: Terminating process with PID 7651 at time 084.112402474
+-----------------------------------------------------------------------------------
+----------Process with PID 7651 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7651 used 0.353488 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7506 to Queue #2 at time 084.412856429
+OSS: interrupted Process with PID 7506 to Queue #1 at time 084.813437976
+OSS: Scheduled Process with PID 7506 at time 085.213998871
+OSS: Process with PID 7506 was in queue for 001.101605714 seconds
+OSS: Giving control to process with PID 7506 at time 085.264179926
+OSS: Taking control back from process with PID 7506 at time 085.928166362
+OSS: Re-Queued Process with PID 7506 to Queue #1 at time 085.978481231
+OSS: Generated Process with PID 7655 at time 086.228834778 - PROCESS #46
+OSS: Queued Process with PID 7655 to Queue #3 at time 086.279051421
+OSS: Scheduled Process with PID 7506 at time 086.329192632
+OSS: Process with PID 7506 was in queue for 086.329238200 seconds
+OSS: Giving control to process with PID 7506 at time 086.379395128
+OSS: Taking control back from process with PID 7506 at time 086.889683398
+OSS: Terminating process with PID 7506 at time 086.989946808
+-----------------------------------------------------------------------------------
+----------Process with PID 7506 was in the system for time 54.017182960 seconds-----------------
+--------------Process wih PID 7506 used 1.883353 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7615 to Queue #2 at time 087.290440552
+OSS: interrupted Process with PID 7615 to Queue #1 at time 087.691105690
+OSS: Scheduled Process with PID 7615 at time 088.091694461
+OSS: Process with PID 7615 was in queue for 002.18446744072811318964 seconds
+OSS: Giving control to process with PID 7615 at time 088.141850632
+OSS: Taking control back from process with PID 7615 at time 089.103896371
+OSS: Re-Queued Process with PID 7615 to Queue #1 at time 089.154115227
+OSS: Generated Process with PID 7665 at time 089.404443780 - PROCESS #47
+OSS: Queued Process with PID 7665 to Queue #1 at time 089.454646188
+OSS: Scheduled Process with PID 7615 at time 089.504764429
+OSS: Process with PID 7615 was in queue for 089.504773748 seconds
+OSS: Giving control to process with PID 7615 at time 089.554899676
+OSS: Taking control back from process with PID 7615 at time 090.106075237
+OSS: Terminating process with PID 7615 at time 090.206327938
+-----------------------------------------------------------------------------------
+----------Process with PID 7615 was in the system for time 33.017182960 seconds-----------------
+--------------Process wih PID 7615 used 1.411548 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Scheduled Process with PID 7665 at time 090.506642477
+OSS: Process with PID 7665 was in queue for 090.506656790 seconds
+OSS: Giving control to process with PID 7665 at time 090.556781770
+OSS: Taking control back from process with PID 7665 at time 090.943721959
+OSS: Terminating process with PID 7665 at time 091.043924236
+-----------------------------------------------------------------------------------
+----------Process with PID 7665 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7665 used 0.335516 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7672 at time 091.244202626 - PROCESS #48
+OSS: Queued Process with PID 7672 to Queue #3 at time 091.294402952
+OSS: interrupted Process with PID 7524 to Queue #2 at time 091.344618977
+OSS: Generated Process with PID 7674 at time 091.645109527 - PROCESS #49
+OSS: Queued Process with PID 7674 to Queue #1 at time 091.695317035
+OSS: Scheduled Process with PID 7674 at time 091.745462410
+OSS: Process with PID 7674 was in queue for 008.745482339 seconds
+OSS: Giving control to process with PID 7674 at time 091.795593146
+OSS: Taking control back from process with PID 7674 at time 091.897133581
+OSS: Terminating process with PID 7674 at time 091.997438685
+-----------------------------------------------------------------------------------
+----------Process with PID 7674 was in the system for time 0.017182960 seconds-----------------
+--------------Process wih PID 7674 used 0.050086 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7676 at time 092.197695047 - PROCESS #50
+OSS: Queued Process with PID 7676 to Queue #1 at time 092.247903968
+OSS: Scheduled Process with PID 7676 at time 092.298024668
+OSS: Process with PID 7676 was in queue for 001.298040154 seconds
+OSS: Giving control to process with PID 7676 at time 092.348168524
+OSS: Taking control back from process with PID 7676 at time 092.491158921
+OSS: Terminating process with PID 7676 at time 092.591459237
+-----------------------------------------------------------------------------------
+----------Process with PID 7676 was in the system for time 0.017182960 seconds-----------------
+--------------Process wih PID 7676 used 0.091491 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7524 to Queue #1 at time 092.892100841
+OSS: Generated Process with PID 7679 at time 093.192631516 - PROCESS #51
+OSS: Queued Process with PID 7679 to Queue #2 at time 093.242856851
+OSS: Scheduled Process with PID 7524 at time 093.292993799
+OSS: Process with PID 7524 was in queue for 093.293038416 seconds
+OSS: Giving control to process with PID 7524 at time 093.343184506
+OSS: Taking control back from process with PID 7524 at time 094.006677038
+OSS: Re-Queued Process with PID 7524 to Queue #2 at time 094.056910353
+OSS: interrupted Process with PID 7679 to Queue #1 at time 094.407445481
+OSS: Scheduled Process with PID 7679 at time 094.808089241
+OSS: Process with PID 7679 was in queue for 002.808124593 seconds
+OSS: Giving control to process with PID 7679 at time 094.858228768
+OSS: Taking control back from process with PID 7679 at time 095.583238787
+OSS: Re-Queued Process with PID 7679 to Queue #1 at time 095.633497889
+OSS: Generated Process with PID 7684 at time 095.883949040 - PROCESS #52
+OSS: Queued Process with PID 7684 to Queue #3 at time 095.934184190
+OSS: Scheduled Process with PID 7679 at time 095.984301846
+OSS: Process with PID 7679 was in queue for 095.984316766 seconds
+OSS: Giving control to process with PID 7679 at time 096.034481590
+OSS: Taking control back from process with PID 7679 at time 096.341874459
+OSS: Terminating process with PID 7679 at time 096.442145776
+-----------------------------------------------------------------------------------
+----------Process with PID 7679 was in the system for time 3.017182960 seconds-----------------
+--------------Process wih PID 7679 used 0.930322 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7524 to Queue #1 at time 096.742605245
+OSS: Scheduled Process with PID 7524 at time 097.143228655
+OSS: Process with PID 7524 was in queue for 001.18446744073410638517 seconds
+OSS: Giving control to process with PID 7524 at time 097.193369194
+OSS: Taking control back from process with PID 7524 at time 097.875295855
+OSS: Terminating process with PID 7524 at time 097.975592943
+-----------------------------------------------------------------------------------
+----------Process with PID 7524 was in the system for time 58.017182960 seconds-----------------
+--------------Process wih PID 7524 used 2.086325 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7690 at time 098.175894072 - PROCESS #53
+OSS: Queued Process with PID 7690 to Queue #2 at time 098.226142746
+OSS: interrupted Process with PID 7690 to Queue #1 at time 098.276355504
+OSS: Scheduled Process with PID 7690 at time 098.676993330
+OSS: Process with PID 7690 was in queue for 001.677037940 seconds
+OSS: Giving control to process with PID 7690 at time 098.727188359
+OSS: Taking control back from process with PID 7690 at time 099.375925881
+OSS: Terminating process with PID 7690 at time 099.476209911
+-----------------------------------------------------------------------------------
+----------Process with PID 7690 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7690 used 0.597303 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7619 to Queue #2 at time 099.776619945
+OSS: Generated Process with PID 7694 at time 100.077096658 - PROCESS #54
+OSS: Queued Process with PID 7694 to Queue #3 at time 100.127294137
+OSS: interrupted Process with PID 7619 to Queue #1 at time 100.177505960
+OSS: Generated Process with PID 7696 at time 100.478036657 - PROCESS #55
+OSS: Queued Process with PID 7696 to Queue #3 at time 100.528268484
+OSS: Scheduled Process with PID 7619 at time 100.578427210
+OSS: Process with PID 7619 was in queue for 100.578452578 seconds
+OSS: Giving control to process with PID 7619 at time 100.628600177
+OSS: Taking control back from process with PID 7619 at time 101.627193858
+OSS: Re-Queued Process with PID 7619 to Queue #1 at time 101.677385680
+OSS: Scheduled Process with PID 7619 at time 102.027761041
+OSS: Process with PID 7619 was in queue for 001.18446744073060030092 seconds
+OSS: Giving control to process with PID 7619 at time 102.077902540
+OSS: Taking control back from process with PID 7619 at time 102.232599292
+OSS: Terminating process with PID 7619 at time 102.332847129
+-----------------------------------------------------------------------------------
+----------Process with PID 7619 was in the system for time 41.017182960 seconds-----------------
+--------------Process wih PID 7619 used 1.051335 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7698 at time 102.533151888 - PROCESS #56
+OSS: Queued Process with PID 7698 to Queue #1 at time 102.583359369
+OSS: Scheduled Process with PID 7698 at time 102.633526411
+OSS: Process with PID 7698 was in queue for 000.633550477 seconds
+OSS: Giving control to process with PID 7698 at time 102.683673068
+OSS: Taking control back from process with PID 7698 at time 103.409758931
+OSS: Re-Queued Process with PID 7698 to Queue #1 at time 103.460027569
+OSS: Scheduled Process with PID 7698 at time 103.810529678
+OSS: Process with PID 7698 was in queue for 001.810545987 seconds
+OSS: Giving control to process with PID 7698 at time 103.860656914
+OSS: Taking control back from process with PID 7698 at time 104.054495482
+OSS: Terminating process with PID 7698 at time 104.154765048
+-----------------------------------------------------------------------------------
+----------Process with PID 7698 was in the system for time 2.017182960 seconds-----------------
+--------------Process wih PID 7698 used 0.818013 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7620 to Queue #2 at time 104.455229572
+OSS: interrupted Process with PID 7620 to Queue #1 at time 104.855901154
+OSS: Generated Process with PID 7701 at time 105.156406481 - PROCESS #57
+OSS: Queued Process with PID 7701 to Queue #2 at time 105.206624620
+OSS: Scheduled Process with PID 7620 at time 105.256773202
+OSS: Process with PID 7620 was in queue for 105.256795790 seconds
+OSS: Giving control to process with PID 7620 at time 105.306932397
+OSS: Taking control back from process with PID 7620 at time 106.162673691
+OSS: Re-Queued Process with PID 7620 to Queue #1 at time 106.212893571
+OSS: Scheduled Process with PID 7620 at time 106.563380893
+OSS: Process with PID 7620 was in queue for 003.563398100 seconds
+OSS: Giving control to process with PID 7620 at time 106.613567430
+OSS: Taking control back from process with PID 7620 at time 107.066995593
+OSS: Terminating process with PID 7620 at time 107.167263079
+-----------------------------------------------------------------------------------
+----------Process with PID 7620 was in the system for time 46.017182960 seconds-----------------
+--------------Process wih PID 7620 used 1.207246 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7701 to Queue #1 at time 107.467715966
+OSS: Scheduled Process with PID 7701 at time 107.868278886
+OSS: Process with PID 7701 was in queue for 000.701005441 seconds
+OSS: Giving control to process with PID 7701 at time 107.918521483
+OSS: Taking control back from process with PID 7701 at time 108.540829785
+OSS: Re-Queued Process with PID 7701 to Queue #1 at time 108.591158592
+OSS: Generated Process with PID 7708 at time 108.841547771 - PROCESS #58
+OSS: Queued Process with PID 7708 to Queue #3 at time 108.891770457
+OSS: Scheduled Process with PID 7701 at time 108.941908602
+OSS: Process with PID 7701 was in queue for 108.941917542 seconds
+OSS: Giving control to process with PID 7701 at time 108.992067993
+OSS: Taking control back from process with PID 7701 at time 109.338725922
+OSS: Terminating process with PID 7701 at time 109.438992031
+-----------------------------------------------------------------------------------
+----------Process with PID 7701 was in the system for time 4.017182960 seconds-----------------
+--------------Process wih PID 7701 used 0.867222 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7537 to Queue #2 at time 109.739476994
+OSS: Generated Process with PID 7711 at time 110.040068356 - PROCESS #59
+OSS: Queued Process with PID 7711 to Queue #3 at time 110.090291932
+OSS: interrupted Process with PID 7537 to Queue #1 at time 110.140474695
+OSS: Scheduled Process with PID 7537 at time 110.541109618
+OSS: Process with PID 7537 was in queue for 004.541117847 seconds
+OSS: Giving control to process with PID 7537 at time 110.591266011
+OSS: Taking control back from process with PID 7537 at time 111.407858370
+OSS: Re-Queued Process with PID 7537 to Queue #1 at time 111.458138488
+OSS: Scheduled Process with PID 7537 at time 111.808611199
+OSS: Process with PID 7537 was in queue for 001.808619704 seconds
+OSS: Giving control to process with PID 7537 at time 111.858733056
+OSS: Taking control back from process with PID 7537 at time 112.374026253
+OSS: Terminating process with PID 7537 at time 112.474304835
+-----------------------------------------------------------------------------------
+----------Process with PID 7537 was in the system for time 69.017182960 seconds-----------------
+--------------Process wih PID 7537 used 1.976231 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7716 at time 112.674584136 - PROCESS #60
+OSS: Queued Process with PID 7716 to Queue #1 at time 112.724811994
+OSS: Scheduled Process with PID 7716 at time 112.774936626
+OSS: Process with PID 7716 was in queue for 001.774960466 seconds
+OSS: Giving control to process with PID 7716 at time 112.825096193
+OSS: Taking control back from process with PID 7716 at time 113.358370099
+OSS: Terminating process with PID 7716 at time 113.458603390
+-----------------------------------------------------------------------------------
+----------Process with PID 7716 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7716 used 0.481778 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7718 at time 113.658852903 - PROCESS #61
+OSS: Queued Process with PID 7718 to Queue #1 at time 113.709035725
+OSS: Scheduled Process with PID 7718 at time 113.759187917
+OSS: Process with PID 7718 was in queue for 001.759204672 seconds
+OSS: Giving control to process with PID 7718 at time 113.809349371
+OSS: Taking control back from process with PID 7718 at time 114.342785363
+OSS: Terminating process with PID 7718 at time 114.443096753
+-----------------------------------------------------------------------------------
+----------Process with PID 7718 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7718 used 0.481963 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7633 to Queue #2 at time 114.743482391
+OSS: interrupted Process with PID 7633 to Queue #1 at time 115.143959452
+OSS: Scheduled Process with PID 7633 at time 115.544474683
+OSS: Process with PID 7633 was in queue for 001.101370323 seconds
+OSS: Giving control to process with PID 7633 at time 115.594616481
+OSS: Taking control back from process with PID 7633 at time 116.167325018
+OSS: Re-Queued Process with PID 7633 to Queue #2 at time 116.217502959
+OSS: Generated Process with PID 7721 at time 116.467813165 - PROCESS #62
+OSS: Queued Process with PID 7721 to Queue #2 at time 116.518015883
+OSS: interrupted Process with PID 7633 to Queue #1 at time 116.568237742
+OSS: Generated Process with PID 7723 at time 116.868704990 - PROCESS #63
+OSS: Queued Process with PID 7723 to Queue #1 at time 116.918904984
+OSS: Scheduled Process with PID 7633 at time 116.969070827
+OSS: Process with PID 7633 was in queue for 116.969094580 seconds
+OSS: Giving control to process with PID 7633 at time 117.019222776
+OSS: Taking control back from process with PID 7633 at time 117.644125392
+OSS: Terminating process with PID 7633 at time 117.744466712
+-----------------------------------------------------------------------------------
+----------Process with PID 7633 was in the system for time 47.017182960 seconds-----------------
+--------------Process wih PID 7633 used 1.095792 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Scheduled Process with PID 7723 at time 118.044897439
+OSS: Process with PID 7723 was in queue for 118.044925398 seconds
+OSS: Giving control to process with PID 7723 at time 118.095073415
+OSS: Taking control back from process with PID 7723 at time 118.962681777
+OSS: Re-Queued Process with PID 7723 to Queue #1 at time 119.012907457
+OSS: Generated Process with PID 7726 at time 119.263282642 - PROCESS #64
+OSS: Queued Process with PID 7726 to Queue #1 at time 119.313531086
+OSS: Scheduled Process with PID 7723 at time 119.363672731
+OSS: Process with PID 7723 was in queue for 119.363696212 seconds
+OSS: Giving control to process with PID 7723 at time 119.413834064
+OSS: Taking control back from process with PID 7723 at time 119.489393919
+OSS: Terminating process with PID 7723 at time 119.589713927
+-----------------------------------------------------------------------------------
+----------Process with PID 7723 was in the system for time 3.017182960 seconds-----------------
+--------------Process wih PID 7723 used 0.841206 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7727 at time 119.790043914 - PROCESS #65
+OSS: Queued Process with PID 7727 to Queue #1 at time 119.840250449
+OSS: Scheduled Process with PID 7726 at time 119.890380070
+OSS: Process with PID 7726 was in queue for 119.890396264 seconds
+OSS: Giving control to process with PID 7726 at time 119.940539721
+OSS: Taking control back from process with PID 7726 at time 120.808250559
+OSS: Re-Queued Process with PID 7726 to Queue #1 at time 120.858468950
+OSS: Scheduled Process with PID 7727 at time 121.208959670
+OSS: Process with PID 7727 was in queue for 002.208982081 seconds
+OSS: Giving control to process with PID 7727 at time 121.259169421
+OSS: Taking control back from process with PID 7727 at time 121.618085447
+OSS: Terminating process with PID 7727 at time 121.718339184
+-----------------------------------------------------------------------------------
+----------Process with PID 7727 was in the system for time 2.017182960 seconds-----------------
+--------------Process wih PID 7727 used 0.307450 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Scheduled Process with PID 7726 at time 122.018746777
+OSS: Process with PID 7726 was in queue for 122.018788840 seconds
+OSS: Giving control to process with PID 7726 at time 122.068923810
+OSS: Taking control back from process with PID 7726 at time 122.614644194
+OSS: Terminating process with PID 7726 at time 122.714930513
+-----------------------------------------------------------------------------------
+----------Process with PID 7726 was in the system for time 3.017182960 seconds-----------------
+--------------Process wih PID 7726 used 1.311361 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7721 to Queue #1 at time 123.015374019
+OSS: Generated Process with PID 7731 at time 123.315882449 - PROCESS #66
+OSS: Queued Process with PID 7731 to Queue #1 at time 123.366111891
+OSS: Scheduled Process with PID 7721 at time 123.416247317
+OSS: Process with PID 7721 was in queue for 123.416267861 seconds
+OSS: Giving control to process with PID 7721 at time 123.466411748
+OSS: Taking control back from process with PID 7721 at time 124.358351439
+OSS: Re-Queued Process with PID 7721 to Queue #1 at time 124.408606225
+OSS: Generated Process with PID 7733 at time 124.658982113 - PROCESS #67
+OSS: Queued Process with PID 7733 to Queue #1 at time 124.709212595
+OSS: Scheduled Process with PID 7731 at time 124.759352081
+OSS: Process with PID 7731 was in queue for 124.759430432 seconds
+OSS: Giving control to process with PID 7731 at time 124.809564931
+OSS: Taking control back from process with PID 7731 at time 125.297648790
+OSS: Terminating process with PID 7731 at time 125.397893734
+-----------------------------------------------------------------------------------
+----------Process with PID 7731 was in the system for time 2.017182960 seconds-----------------
+--------------Process wih PID 7731 used 0.436664 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Scheduled Process with PID 7721 at time 125.698223075
+OSS: Process with PID 7721 was in queue for 125.698252878 seconds
+OSS: Giving control to process with PID 7721 at time 125.748370002
+OSS: Taking control back from process with PID 7721 at time 125.925628424
+OSS: Terminating process with PID 7721 at time 126.025927051
+-----------------------------------------------------------------------------------
+----------Process with PID 7721 was in the system for time 9.017182960 seconds-----------------
+--------------Process wih PID 7721 used 0.967155 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7735 at time 126.226168500 - PROCESS #68
+OSS: Queued Process with PID 7735 to Queue #3 at time 126.276396815
+OSS: Scheduled Process with PID 7733 at time 126.326563857
+OSS: Process with PID 7733 was in queue for 126.326593882 seconds
+OSS: Giving control to process with PID 7733 at time 126.376733612
+OSS: Taking control back from process with PID 7733 at time 126.717851108
+OSS: Terminating process with PID 7733 at time 126.818152908
+-----------------------------------------------------------------------------------
+----------Process with PID 7733 was in the system for time 2.017182960 seconds-----------------
+--------------Process wih PID 7733 used 0.289672 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7604 to Queue #2 at time 127.118579420
+OSS: interrupted Process with PID 7604 to Queue #1 at time 127.519265243
+OSS: Scheduled Process with PID 7604 at time 127.919774553
+OSS: Process with PID 7604 was in queue for 001.101625485 seconds
+OSS: Giving control to process with PID 7604 at time 127.969918257
+OSS: Taking control back from process with PID 7604 at time 128.760270950
+OSS: Re-Queued Process with PID 7604 to Queue #2 at time 128.810536442
+OSS: Generated Process with PID 7738 at time 129.060962326 - PROCESS #69
+OSS: Queued Process with PID 7738 to Queue #1 at time 129.111217849
+OSS: Scheduled Process with PID 7738 at time 129.161368016
+OSS: Process with PID 7738 was in queue for 000.050294023 seconds
+OSS: Giving control to process with PID 7738 at time 129.211514059
+OSS: Taking control back from process with PID 7738 at time 129.537771979
+OSS: Terminating process with PID 7738 at time 129.638052300
+-----------------------------------------------------------------------------------
+----------Process with PID 7738 was in the system for time 0.017182960 seconds-----------------
+--------------Process wih PID 7738 used 0.274715 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7604 to Queue #1 at time 129.938476237
+OSS: Generated Process with PID 7740 at time 130.238958628 - PROCESS #70
+OSS: Queued Process with PID 7740 to Queue #3 at time 130.289190376
+OSS: Scheduled Process with PID 7604 at time 130.339312146
+OSS: Process with PID 7604 was in queue for 130.339335313 seconds
+OSS: Giving control to process with PID 7604 at time 130.389471479
+OSS: Taking control back from process with PID 7604 at time 130.968376209
+OSS: Terminating process with PID 7604 at time 131.068652095
+-----------------------------------------------------------------------------------
+----------Process with PID 7604 was in the system for time 82.017182960 seconds-----------------
+--------------Process wih PID 7604 used 1.864372 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7742 at time 131.268996981 - PROCESS #71
+OSS: Queued Process with PID 7742 to Queue #3 at time 131.319258355
+OSS: interrupted Process with PID 7649 to Queue #2 at time 131.369476538
+OSS: interrupted Process with PID 7649 to Queue #1 at time 131.770109309
+OSS: Generated Process with PID 7745 at time 132.070587643 - PROCESS #72
+OSS: Queued Process with PID 7745 to Queue #3 at time 132.120824796
+OSS: Scheduled Process with PID 7649 at time 132.170969401
+OSS: Process with PID 7649 was in queue for 132.170982011 seconds
+OSS: Giving control to process with PID 7649 at time 132.221117901
+OSS: Taking control back from process with PID 7649 at time 132.936942456
+OSS: Re-Queued Process with PID 7649 to Queue #3 at time 132.987149333
+OSS: interrupted Process with PID 7655 to Queue #2 at time 133.337728735
+OSS: interrupted Process with PID 7655 to Queue #1 at time 133.738377969
+OSS: Scheduled Process with PID 7655 at time 134.138967816
+OSS: Process with PID 7655 was in queue for 002.18446744072861480048 seconds
+OSS: Giving control to process with PID 7655 at time 134.189092545
+OSS: Taking control back from process with PID 7655 at time 135.155106000
+OSS: Re-Queued Process with PID 7655 to Queue #2 at time 135.205287206
+OSS: Generated Process with PID 7748 at time 135.455653134 - PROCESS #73
+OSS: Queued Process with PID 7748 to Queue #3 at time 135.505867984
+OSS: interrupted Process with PID 7655 to Queue #1 at time 135.556041386
+OSS: Scheduled Process with PID 7655 at time 135.956597592
+OSS: Process with PID 7655 was in queue for 000.450831979 seconds
+OSS: Giving control to process with PID 7655 at time 136.006731942
+OSS: Taking control back from process with PID 7655 at time 136.910148755
+OSS: Re-Queued Process with PID 7655 to Queue #1 at time 136.960350633
+OSS: Generated Process with PID 7751 at time 137.210728971 - PROCESS #74
+OSS: Queued Process with PID 7751 to Queue #3 at time 137.260946767
+OSS: Scheduled Process with PID 7655 at time 137.311113881
+OSS: Process with PID 7655 was in queue for 137.311136506 seconds
+OSS: Giving control to process with PID 7655 at time 137.361298442
+OSS: Taking control back from process with PID 7655 at time 137.429526123
+OSS: Terminating process with PID 7655 at time 137.529870645
+-----------------------------------------------------------------------------------
+----------Process with PID 7655 was in the system for time 51.017182960 seconds-----------------
+--------------Process wih PID 7655 used 1.785175 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7672 to Queue #2 at time 137.830372209
+OSS: interrupted Process with PID 7672 to Queue #1 at time 138.231041887
+OSS: Scheduled Process with PID 7672 at time 138.631582509
+OSS: Process with PID 7672 was in queue for 001.101716720 seconds
+OSS: Giving control to process with PID 7672 at time 138.681763087
+OSS: Taking control back from process with PID 7672 at time 139.427730013
+OSS: Re-Queued Process with PID 7672 to Queue #3 at time 139.477956554
+OSS: Generated Process with PID 7754 at time 139.728329798 - PROCESS #75
+OSS: Queued Process with PID 7754 to Queue #2 at time 139.778549807
+OSS: interrupted Process with PID 7754 to Queue #1 at time 139.828792706
+OSS: Scheduled Process with PID 7754 at time 140.229389828
+OSS: Process with PID 7754 was in queue for 001.18446744073160503455 seconds
+OSS: Giving control to process with PID 7754 at time 140.279533218
+OSS: Taking control back from process with PID 7754 at time 140.853768616
+OSS: Re-Queued Process with PID 7754 to Queue #1 at time 140.903990815
+OSS: Generated Process with PID 7756 at time 141.154362614 - PROCESS #76
+OSS: Queued Process with PID 7756 to Queue #3 at time 141.204580351
+OSS: Scheduled Process with PID 7754 at time 141.254718104
+OSS: Process with PID 7754 was in queue for 141.254768584 seconds
+OSS: Giving control to process with PID 7754 at time 141.304927842
+OSS: Taking control back from process with PID 7754 at time 141.414868411
+OSS: Terminating process with PID 7754 at time 141.515166562
+-----------------------------------------------------------------------------------
+----------Process with PID 7754 was in the system for time 2.017182960 seconds-----------------
+--------------Process wih PID 7754 used 0.582186 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7684 to Queue #2 at time 141.815562635
+OSS: interrupted Process with PID 7684 to Queue #1 at time 142.216367102
+OSS: Scheduled Process with PID 7684 at time 142.616980566
+OSS: Process with PID 7684 was in queue for 001.101831190 seconds
+OSS: Giving control to process with PID 7684 at time 142.667161834
+OSS: Taking control back from process with PID 7684 at time 143.564303632
+OSS: Re-Queued Process with PID 7684 to Queue #2 at time 143.614560851
+OSS: Generated Process with PID 7760 at time 143.864889467 - PROCESS #77
+OSS: Queued Process with PID 7760 to Queue #3 at time 143.915116153
+OSS: interrupted Process with PID 7684 to Queue #1 at time 143.965381946
+OSS: Scheduled Process with PID 7684 at time 144.366031129
+OSS: Process with PID 7684 was in queue for 001.18446744073160573025 seconds
+OSS: Giving control to process with PID 7684 at time 144.416191929
+OSS: Taking control back from process with PID 7684 at time 145.171657777
+OSS: Re-Queued Process with PID 7684 to Queue #1 at time 145.221886232
+OSS: Generated Process with PID 7763 at time 145.472269881 - PROCESS #78
+OSS: Queued Process with PID 7763 to Queue #1 at time 145.522506189
+OSS: Scheduled Process with PID 7684 at time 145.572610411
+OSS: Process with PID 7684 was in queue for 145.572634647 seconds
+OSS: Giving control to process with PID 7684 at time 145.622794267
+OSS: Taking control back from process with PID 7684 at time 145.824065334
+OSS: Terminating process with PID 7684 at time 145.924337438
+-----------------------------------------------------------------------------------
+----------Process with PID 7684 was in the system for time 50.017182960 seconds-----------------
+--------------Process wih PID 7684 used 1.701615 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Scheduled Process with PID 7763 at time 146.224652084
+OSS: Process with PID 7763 was in queue for 146.224664814 seconds
+OSS: Terminating process with PID 7763 at time 146.324923313
+-----------------------------------------------------------------------------------
+----------Process with PID 7763 was in the system for time -145.017182960 seconds-----------------
+--------------Process wih PID 7763 used 0.146753 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7694 to Queue #2 at time 146.625354101
+OSS: interrupted Process with PID 7694 to Queue #1 at time 147.025977409
+OSS: Scheduled Process with PID 7694 at time 147.426520361
+OSS: Process with PID 7694 was in queue for 001.101597835 seconds
+OSS: Giving control to process with PID 7694 at time 147.476662232
+OSS: Taking control back from process with PID 7694 at time 148.125487627
+OSS: Re-Queued Process with PID 7694 to Queue #3 at time 148.175708488
+OSS: Generated Process with PID 7773 at time 148.426047323 - PROCESS #79
+OSS: Queued Process with PID 7773 to Queue #3 at time 148.476244468
+OSS: interrupted Process with PID 7696 to Queue #2 at time 148.526465469
+OSS: Generated Process with PID 7774 at time 148.826930310 - PROCESS #80
+OSS: Queued Process with PID 7774 to Queue #3 at time 148.877145764
+OSS: interrupted Process with PID 7696 to Queue #1 at time 148.927356489
+OSS: Scheduled Process with PID 7696 at time 149.327892461
+OSS: Process with PID 7696 was in queue for 001.18446744073160413632 seconds
+OSS: Giving control to process with PID 7696 at time 149.378094998
+OSS: Taking control back from process with PID 7696 at time 150.104219405
+OSS: Re-Queued Process with PID 7696 to Queue #2 at time 150.154455008
+OSS: interrupted Process with PID 7696 to Queue #1 at time 150.505017979
+OSS: Scheduled Process with PID 7696 at time 150.905571026
+OSS: Process with PID 7696 was in queue for 001.905592848 seconds
+OSS: Giving control to process with PID 7696 at time 150.955734957
+OSS: Taking control back from process with PID 7696 at time 151.597519720
+OSS: Terminating process with PID 7696 at time 151.697877723
+-----------------------------------------------------------------------------------
+----------Process with PID 7696 was in the system for time 51.017182960 seconds-----------------
+--------------Process wih PID 7696 used 1.266020 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7782 at time 151.898142067 - PROCESS #81
+OSS: Queued Process with PID 7782 to Queue #1 at time 151.948356848
+OSS: Scheduled Process with PID 7782 at time 151.998498695
+OSS: Process with PID 7782 was in queue for 001.998520706 seconds
+OSS: Giving control to process with PID 7782 at time 152.048669084
+OSS: Taking control back from process with PID 7782 at time 152.585000237
+OSS: Terminating process with PID 7782 at time 152.685322170
+-----------------------------------------------------------------------------------
+----------Process with PID 7782 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7782 used 0.484822 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7785 at time 152.885604416 - PROCESS #82
+OSS: Queued Process with PID 7785 to Queue #1 at time 152.935828473
+OSS: Scheduled Process with PID 7785 at time 152.985977892
+OSS: Process with PID 7785 was in queue for 001.985997665 seconds
+OSS: Giving control to process with PID 7785 at time 153.036170262
+OSS: Taking control back from process with PID 7785 at time 153.287374118
+OSS: Terminating process with PID 7785 at time 153.387699166
+-----------------------------------------------------------------------------------
+----------Process with PID 7785 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7785 used 0.199750 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7708 to Queue #2 at time 153.688151133
+OSS: interrupted Process with PID 7708 to Queue #1 at time 154.088808768
+OSS: Generated Process with PID 7789 at time 154.389302722 - PROCESS #83
+OSS: Queued Process with PID 7789 to Queue #1 at time 154.439570523
+OSS: Scheduled Process with PID 7708 at time 154.489714645
+OSS: Process with PID 7708 was in queue for 154.489729391 seconds
+OSS: Giving control to process with PID 7708 at time 154.539884543
+OSS: Taking control back from process with PID 7708 at time 155.123191705
+OSS: Re-Queued Process with PID 7708 to Queue #2 at time 155.173419144
+OSS: Generated Process with PID 7791 at time 155.423813627 - PROCESS #84
+OSS: Queued Process with PID 7791 to Queue #2 at time 155.474039342
+OSS: Scheduled Process with PID 7789 at time 155.524156607
+OSS: Process with PID 7789 was in queue for 047.524174249 seconds
+OSS: Giving control to process with PID 7789 at time 155.574322712
+OSS: Taking control back from process with PID 7789 at time 155.734051935
+OSS: Terminating process with PID 7789 at time 155.834330129
+-----------------------------------------------------------------------------------
+----------Process with PID 7789 was in the system for time 1.017182960 seconds-----------------
+--------------Process wih PID 7789 used 0.108253 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7708 to Queue #1 at time 156.134775176
+OSS: Scheduled Process with PID 7708 at time 156.535371213
+OSS: Process with PID 7708 was in queue for 001.18446744073410591318 seconds
+OSS: Giving control to process with PID 7708 at time 156.585526707
+OSS: Taking control back from process with PID 7708 at time 157.360470805
+OSS: Terminating process with PID 7708 at time 157.460789768
+-----------------------------------------------------------------------------------
+----------Process with PID 7708 was in the system for time 49.017182960 seconds-----------------
+--------------Process wih PID 7708 used 1.256433 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: Generated Process with PID 7797 at time 157.661016511 - PROCESS #85
+OSS: Queued Process with PID 7797 to Queue #3 at time 157.711245548
+OSS: interrupted Process with PID 7791 to Queue #1 at time 157.761489981
+OSS: Scheduled Process with PID 7791 at time 158.162093305
+OSS: Process with PID 7791 was in queue for 001.18446744073160505257 seconds
+OSS: Terminating process with PID 7791 at time 158.262388688
+-----------------------------------------------------------------------------------
+----------Process with PID 7791 was in the system for time -155.017182960 seconds-----------------
+--------------Process wih PID 7791 used 0.807632 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7711 to Queue #2 at time 158.562866807
+OSS: interrupted Process with PID 7711 to Queue #1 at time 158.963551298
+OSS: Generated Process with PID 7802 at time 159.264115034 - PROCESS #86
+OSS: Queued Process with PID 7802 to Queue #2 at time 159.314310150
+OSS: Scheduled Process with PID 7711 at time 159.364443855
+OSS: Process with PID 7711 was in queue for 159.364464966 seconds
+OSS: Giving control to process with PID 7711 at time 159.414588220
+OSS: Taking control back from process with PID 7711 at time 159.997885593
+OSS: Re-Queued Process with PID 7711 to Queue #3 at time 160.048161973
+OSS: interrupted Process with PID 7802 to Queue #1 at time 160.398731099
+OSS: Scheduled Process with PID 7802 at time 160.799357527
+OSS: Process with PID 7802 was in queue for 000.751313351 seconds
+OSS: Giving control to process with PID 7802 at time 160.849518993
+OSS: Taking control back from process with PID 7802 at time 161.562215780
+OSS: Terminating process with PID 7802 at time 161.662500748
+-----------------------------------------------------------------------------------
+----------Process with PID 7802 was in the system for time 2.017182960 seconds-----------------
+--------------Process wih PID 7802 used 0.661207 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7735 to Queue #2 at time 161.962894550
+OSS: Generated Process with PID 7806 at time 162.263362403 - PROCESS #87
+OSS: Queued Process with PID 7806 to Queue #3 at time 162.313614041
+OSS: interrupted Process with PID 7735 to Queue #1 at time 162.363854675
+OSS: Generated Process with PID 7807 at time 162.664345057 - PROCESS #88
+OSS: Queued Process with PID 7807 to Queue #1 at time 162.714607877
+OSS: Scheduled Process with PID 7735 at time 162.764725642
+OSS: Process with PID 7735 was in queue for 162.764745682 seconds
+OSS: Giving control to process with PID 7735 at time 162.814866643
+OSS: Taking control back from process with PID 7735 at time 163.368551808
+OSS: Re-Queued Process with PID 7735 to Queue #3 at time 163.418761689
+OSS: Generated Process with PID 7809 at time 163.669123698 - PROCESS #89
+OSS: Queued Process with PID 7809 to Queue #2 at time 163.719321616
+OSS: Scheduled Process with PID 7807 at time 163.769463048
+OSS: Process with PID 7807 was in queue for 001.055015269 seconds
+OSS: Terminating process with PID 7807 at time 163.869720861
+-----------------------------------------------------------------------------------
+----------Process with PID 7807 was in the system for time -162.017182960 seconds-----------------
+--------------Process wih PID 7807 used 0.141056 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7809 to Queue #1 at time 164.170261390
+OSS: Scheduled Process with PID 7809 at time 164.570784329
+OSS: Process with PID 7809 was in queue for 001.18446744073410583250 seconds
+OSS: Terminating process with PID 7809 at time 164.671056474
+-----------------------------------------------------------------------------------
+----------Process with PID 7809 was in the system for time -163.017182960 seconds-----------------
+--------------Process wih PID 7809 used 0.937470 seconds of CPU time----------------------
+-----------------------------------------------------------------------------------
+OSS: interrupted Process with PID 7740 to Queue #2 at time 164.971512008
+OSS: Generated Process with PID 7811 at time 165.271982849 - PROCESS #90
+OSS: Queued Process with PID 7811 to Queue #3 at time 165.322184965
+OSS: interrupted Process with PID 7740 to Queue #1 at time 165.372384579
+OSS: Scheduled Process with PID 7740 at time 165.772971202
+OSS: Process with PID 7740 was in queue for 000.450933819 seconds
+OSS: Giving control to process with PID 7740 at time 165.823189924
+OSS: Taking control back from process with PID 7740 at time 166.381869128
+OSS: Re-Queued Process with PID 7740 to Queue #3 at time 166.432127677
+OSS: interrupted Process with PID 7742 to Queue #2 at time 166.782620857
+OSS: Generated Process with PID 7816 at time 167.083099520 - PROCESS #91
+OSS: Queued Process with PID 7816 to Queue #2 at time 167.133315010
+OSS: interrupted Process with PID 7742 to Queue #1 at time 167.183518838
+-----------------------------------------------------------------------------------
+		Average Wait Time in Queue: 35.265625 seconds
+		Average CPU Usage by Processes: 0.656811 seconds
+		Average Turnaround Time: 2.472527 seconds
+		Total Program Run Time: 168.183713891 seconds
+		Total CPU Down Time: 91.850239 seconds
+		Total Lines Printed: 1202
+-----------------------------------------------------------------------------------

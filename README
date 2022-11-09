@@ -1,0 +1,61 @@
+GITHUB LINK :
+
+In this project, you will simulate the process scheduling part of an operating system. You will implement time-based scheduling,
+ignoring almost every other aspect of the OS. In this project we will be using message queues for synchronization.
+# Operating System Simulator
+This will be your main program and serve as the master process. You will start the operating system simulator (call the executable
+oss) as one main process who will fork multiple children at random times. The randomness will be simulated by a logical clock that
+will also be updated by oss.
+In the beginning, oss will allocate memory for system data structures, including a process control table with a process control block
+for each user process. The process control block is a fixed size structure and contains information on managing the child process
+scheduling. Notice that since it is a simulator, you will not need to allocate space to save the context of child processes. But you must
+allocate space for scheduling-related items such as total CPU time used, total time in the system, time used during the last burst, your
+local simulated pid, and process priority, if any. The process control block resides in shared memory and is accessible to the children.
+Since we are limiting ourselves to 20 processes in this class, you should allocate space for up to 18 process control blocks. Your
+process table should contain a method to keep track of what process control blocks are currently in use.
+The OSS simulates time passing by using a simulated system clock. The clock is stored in two shared integers in memory, one which
+stores seconds and the other nanoseconds. will be in nanoseconds, so use two unsigned integers for the clock. oss will be creating
+user processes at random intervals. While the simulated clock (the two integers) are viewable by the child processes, it should only be
+advanced (changed) by oss.
+Note that oss simulates time passing in the system by adding time to the clock and as it is the only process that would change the
+clock, if a user process uses some time, oss should indicate this by advancing the clock. In the same fashion, if oss does something
+that should take some time if it was a real operating system, it should increment the clock by a small amount to indicate the time it
+spent.
+oss will create user processes at random intervals (of simulated time), so you will have two constants, let us call them maxTimeBe-
+tweenNewProcsNS and maxTimeBetweenNewProcsSecs and should launch a new user process based on a random time interval from 0
+to those constants. It generates a new process by allocating and initializing the process control block for the process and then, forks
+and execs the process. I would suggest setting these constants initially to spawning a new process about every 1 second, but you can
+experiment with this later to keep the system busy. There should be a constant representing the percentage of time a process is launched
+as a normal user process or a real-time one. While this constant is specified by you, it should be heavily weighted to generating mainly
+user processes.
+oss acts as the scheduler and so will schedule a process by sending it a message using a message queue. When initially started, there
+will be no processes in the system but it will have a time in the future where it will launch a process. If there are no processes currently
+ready to run in the system, it should increment the clock until it is the time where it should launch a process. It should then set up that
+process, generate a new time where it will create a new process and then using a message queue, schedule a process to run by sending
+it a message. It should then wait for a message back from that process that it has finished its task. If your process table is already full
+when you go to generate a process, just skip that generation, but do determine another time in the future to try and generate a new
+process.
+# Scheduling Algorithm. 
+Assuming you have more than one process in your simulated system, oss will select a process to run and
+schedule it for execution. It will select the process by using a scheduling algorithm with the following features:
+Implement a multi-level feedback queue. There are four scheduling queues, each having an associated time quantum. The base time
+quantum is determined by you as a constant, let us say something like 10 milliseconds, but certainly could be experimented with. The
+highest priority queue has this base time quantum as the amount of time it would schedule a child process if it scheduled it out of that
+queue. The second highest priority queue would have twice that, the third highest priority queue would have four times the base queue
+and so on, as per a normal multi-level feedback queue. If a process finishes using its entire timeslice, it should be moved to a queue
+one lower in priority. If a process comes out of a blocked queue, it should go to the highest priority queue.
+In addition to the naive multi-level feedback queue, you should implement some form of aging to prevent processes from starving.
+This should be based on some function of a processes wait time compared to how much time it has spent on the cpu.
+
+
+Implementation :
+•Master created a process control table with one user process and created that user process, testing the message queues back
+and forth.
+•Scheduled the one user process over and over, logging the data.
+•Created one round robin queue, add additional user processes, making all user processes alternate in it
+•Added the chance for user processes to be blocked on an event, keep track of statistics on this.
+•Kept track of and output statistics like throughput, wait time.
+•Implemented additional queues.
+•Added aging algorithm to prevent any chance at starvation.
+
+Sometimes seeing segmentation fault. After executing the code multiple times is clearing the issue.
